@@ -1,5 +1,5 @@
 # emotions
-> The Emotions Game: simple html game for kids and parents. 
+> The Emotions Game: simple html game for kids (4-7) and parents. 
 
 > Great to discover more about our own feelings and connect more with each other. 
 
@@ -23,7 +23,7 @@
 5. You get your number and then you `progress` on the board 
 6. The positions are representations of `emotions/ sensations/ feelings` 
 7. When you move your token on the next position, you have to `recall a situation which makes you feel  like the emotion` in that position
-8. For example, if the position has "`Happy`" 😁  on it, you tell a situation which makes you happy: "`I feel happy when ..... `".
+8. For example, if the position has "`Happy`" 😁  on it, you tell a situation which makes you happy: "`I feel happy when... `".
 9. The first player to get to the end of the board wins.
 
 
