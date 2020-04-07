@@ -6,7 +6,6 @@
 <head>
 
     <meta charset="UTF-8">
-  
     <title>Emotions</title>
 
     <!-- Scripts -->
@@ -20,16 +19,17 @@
 </head>
 
 <!-- Body -->
-<body ng-controller="ctrl">
+<body ng-controller="EmotionsBodyController as ctrl">
     
     <!-- Main wrapper -->
     <div class="main">
 
-		  <h1>{{ctrl.hello}}</h1>
+      <input type="text" ng-model="ctrl.game.hello" >
+
+		  <h1>{{ctrl.game.hello}}</h1>
     
     </div>
 
 </body>
-
 
 </html>
